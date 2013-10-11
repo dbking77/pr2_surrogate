@@ -531,11 +531,11 @@ Visualization Manager:
       Channel Name: intensity
       Class: rviz/DepthCloud
       Color: 255; 255; 255
-      Color Image Topic: /kinect_head/rgb/image_color
+      Color Image Topic: /head_camera/rgb/image_raw
       Color Transformer: RGB8
       Color Transport Hint: compressed
       Decay Time: 0
-      Depth Map Topic: /kinect_head/depth_registered/image_raw
+      Depth Map Topic: /head_camera/depth_registered/image_raw
       Depth Map Transport Hint: compressedDepth
       Enabled: true
       Max Color: 255; 255; 255
