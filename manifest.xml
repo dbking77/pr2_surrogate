@@ -10,18 +10,18 @@
 
   <depend package="geometry_msgs"/>
   <depend package="sensor_msgs"/>
-  <depend package="pr2_controllers_msgs"/>
+  <!--depend package="pr2_controllers_msgs"/-->
   <depend package="actionlib"/>
   <depend package="roscpp"/>
   <depend package="razer_hydra"/>
   <depend package="compressed_image_transport"/>
   <depend package="compressed_depth_image_transport"/>
-  <depend package="pr2_teleop"/>
+  <!--depend package="pr2_teleop"/>
   <depend package="audio_capture"/>
-  <depend package="audio_play"/>
-  <depend package="pr2_controller_manager"/>
+  <depend package="audio_play"/-->
+  <!--depend package="pr2_controller_manager"/>
   <depend package="robot_mechanism_controllers"/>
-  <depend package="openni_camera"/>
+  <depend package="openni_camera"/-->
   <depend package="rviz"/>
   <depend package="tf"/>
   
